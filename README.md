@@ -9,7 +9,7 @@ P/S: Please shout out to minu2k5 who assist a lot by giving hints so that I can 
 
 
 # [__Challenges__](#challenges)
-| Category      | Name                                                                                     | <div style="width:760px">Objective</div>                          | Difficulty [⭐⭐⭐⭐⭐] |
+| Category      | Name                                                                                     | <div style="width:760px">Objective</div>                          | Difficulty ⭐⭐⭐⭐⭐ |
 |---------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------|
 | **General Skills**| [Commitment Issues]()| Restore the history change| ⭐   |
 | **General Skills**| [Time Machine](crypto/%5BVery%20Easy%5D%20Makeshift)                                       | Find the history git (git log)                    | ⭐                      |
